@@ -1,4 +1,5 @@
 # Applied Economic & Numerical Analysis (Python)
+**Selected Jupyter notebooks demonstrating applied numerical methods and optimisation for economic decision-making.**
 
 This repository contains selected Python notebooks applying numerical methods
 and economic modelling techniques to practical decision-making problems.
@@ -25,17 +26,16 @@ analytics, and data-informed decision-making**.
 ## Included Notebooks
 
 ### Applied Numerical Methods & Optimisation (PS6)
-This notebook evaluates different numerical approaches to function
+This notebook applies and compares different numerical approaches to function
 approximation and optimisation.
 
-It includes:
-- Comparison of polynomial and spline-based approximation techniques
+The work applies:
+- Polynomial and spline-based approximation techniques
 - Analysis of convergence, numerical stability, and approximation error
-- Application of numerical optimisation routines to economic-style objective
-  functions
-- Discussion of trade-offs between precision and computational efficiency
+- Numerical optimisation routines for economic-style objective functions
+- Evaluation of trade-offs between precision and computational efficiency
 
-The emphasis is on understanding when and why certain methods perform better
+The emphasis is on understanding **when and why certain methods perform better**
 than others, rather than treating numerical techniques as black boxes.
 
 ---
@@ -44,13 +44,13 @@ than others, rather than treating numerical techniques as black boxes.
 This notebook applies numerical and iterative methods to solve economic-style
 models that do not admit closed-form solutions.
 
-It includes:
-- Implementation of iterative algorithms for non-linear problems
-- Simulation of model outcomes under different parameter values
-- Sensitivity analysis to assess robustness
+The work applies:
+- Iterative algorithms for solving non-linear problems
+- Simulation of model outcomes under varying parameter values
+- Sensitivity analysis to assess robustness of results
 - Interpretation of numerical solutions in an economic context
 
-This work highlights how numerical methods can be used to explore model
+This analysis highlights how numerical methods can be used to explore model
 behaviour and support decisions under uncertainty.
 
 ---
@@ -71,6 +71,16 @@ The notebooks in this repository were completed as part of a
 Eight problem sets were completed in total; the two included here were
 deliberately selected as the most representative of applied numerical
 modelling, optimisation, and economic interpretation.
+
+These notebooks were selected based on clarity of insight and the ability to
+translate quantitative results into practical conclusions.
+
+---
+
+## How to View
+
+Notebook files (`.ipynb`) are rendered directly on GitHub — no local setup is
+required.
 
 ---
 
